@@ -2,3 +2,4 @@
 Soal Yang selesai No. 1,3,4,dan 5
 No. 1 saya mengunakan bahasa Java dan membuatnya dengan menggunakan aplikasi BlueJ
 No. 3 pun sama seperti no 1 hanya saja penyelesaiannya tidak sampai tuntas
+No. 4 menggunakan xampp untuk mengaktifkan mysql dan untuk membuat database nya saya langsung lewat cmd
